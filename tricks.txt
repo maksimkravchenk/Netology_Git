@@ -1,0 +1,7 @@
+git config -- configuration of the git 
+
+//creare initialize the repository on the local machine  
+git init --initial-branch=main
+
+//get the status of hte repository 
+git status
