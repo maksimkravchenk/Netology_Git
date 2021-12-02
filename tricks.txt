@@ -1,7 +1,18 @@
-git config -- configuration of the git 
+//Check global configuration 
+git config --global -l
+ 
 
 //creare initialize the repository on the local machine  
 git init --initial-branch=main
 
 //get the status of hte repository 
 git status
+
+//add folders or files to the repository local 
+git add Python_Basics/
+
+//Commit the changes to be tracket by local git 
+git commit -m "first commit"
+
+//push the changes to the remote repository 
+git push origin main
