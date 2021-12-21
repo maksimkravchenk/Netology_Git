@@ -1,4 +1,4 @@
-//Check global configuration 
+git //Check global configuration 
 git config --global -l
  
 
@@ -16,3 +16,16 @@ git commit -m "first commit"
 
 //push the changes to the remote repository 
 git push origin main
+
+
+git branch bugfix
+git commit
+git branch; git commit 
+git checkout bugfix; 
+git rebase main
+git rebase bugfix
+
+
+git clone 
+git fakeTeamwork foo 3
+
