@@ -1,0 +1,375 @@
+University name , Link , Location, Number of Students 
+Moscow State University,https://www.msu.ru,Moscow,29999
+National Research University Higher School of Economics,https://www.hse.ru,Moscow ...,34999
+St. Petersburg State University,https://spbu.ru,Saint Petersburg,24999
+Russian Presidential Academy of National Economy and Public Administration,https://www.ranepa.ru,Moscow,45000
+Kazan Federal University,https://kpfu.ru,Kazan ...,45000
+Ural Federal University,https://urfu.ru,Yekaterinburg,44999
+Tomsk State University,https://www.tsu.ru,Tomsk,14999
+Novosibirsk State University,https://www.nsu.ru,Novosibirsk,6999
+ITMO University,https://itmo.ru,Saint Petersburg,14999
+RUDN University,https://www.rudn.ru,Moscow,19999
+Siberian Federal University,http://www.sfu-kras.ru,Krasnoyarsk,29999
+Peter the Great St.Petersburg Polytechnic University,https://www.spbstu.ru,Saint Petersburg,34999
+National Research Nuclear University MEPI,https://mephi.ru,Moscow,8999
+Finance Academy under the Government of the Russian Federation,http://www.fa.ru,Moscow,34999
+Moscow Institute of Physics and Technology,https://mipt.ru,Moscow ...,4999
+Tomsk Polytechnic University,https://tpu.ru,Tomsk,14999
+Moscow State Institute of International Relations,https://mgimo.ru,Moscow ...,9999
+Saratov State University,https://www.sgu.ru,Saratov ...,24999
+South Ural State University,https://www.susu.ru,Chelyabinsk ...,29999
+Lobachevsky State University of Nizhni Novgorod,http://www.unn.ru,Nizhny Novgorod ...,29999
+Bauman Moscow State Technical University,https://bmstu.ru,Moscow ...,19999
+Moscow Medical Academy,https://www.sechenov.ru,Moscow,9999
+Plekhanov Russian University of Economics,https://www.rea.ru,Moscow ...,19999
+Russian State University for the Humanities,https://www.rsuh.ru,Moscow,7999
+Synergy University,https://synergy.ru,Moscow ...,24999
+Voronezh State University,http://www.vsu.ru,Voronezh ...,19999
+Southern Federal University,https://sfedu.ru,Rostov-on-Don ...,45000
+Herzen State Pedagogical University of Russia,https://www.herzen.spb.ru,Saint Petersburg,14999
+Belgorod State University,https://www.bsu.edu.ru,Belgorod,34999
+Far Eastern Federal University,https://www.dvfu.ru,Vladivostok ...,44999
+National University of Science and Technology "MISIS",https://misis.ru,Moscow ...,7999
+Moscow Aviation Institute,https://mai.ru,Moscow ...,24999
+Moscow State Pedagogical University,http://mpgu.su,Moscow,14999
+North-Eastern Federal University,https://www.s-vfu.ru,Yakutsk,14999
+Altai State University,https://www.asu.ru,Barnaul,8999
+Perm State University,http://www.psu.ru,Perm,14999
+Samara National Research University,https://ssau.ru,Samara,14999
+Tver State University,https://www.tversu.ru,Tver,6999
+Irkutsk State University,https://isu.ru,Irkutsk,14999
+Northern Arctic Federal University,https://narfu.ru,Arkhangelsk ...,14999
+Novosibirsk State Technical University,https://www.nstu.ru,Novosibirsk,14999
+St. Petersburg State University of Economics,https://unecon.ru,Saint Petersburg,4999
+Russian State Social University,https://rgsu.net,Moscow ...,8999
+Moscow City Teachers' Training University,https://www.mgpu.ru,Moscow ...,19999
+Russian State University of Oil and Gas,https://www.gubkin.ru,Moscow,7999
+Ogarev Mordovia State University,https://mrsu.ru,Saransk ...,19999
+Kuban State University,https://www.kubsu.ru,Krasnodar,24999
+University of Tyumen,https://www.utmn.ru,Tyumen ...,19999
+Moscow Technical University - MIREA,https://www.mirea.ru,Moscow,7999
+Moscow Polytech,https://mospolytech.ru,Moscow,19999
+Russian National Research Medical University,https://rsmu.ru,Moscow,9999
+Moscow Tchaikovsky Conservatory,https://www.mosconsv.ru,Moscow,999
+Tyumen Industrial University,https://www.tyuiu.ru,Tyumen,14999
+Orenburg State University,http://www.osu.ru,Orenburg,14999
+Saint Petersburg State Electrotechnical University,https://etu.ru,Saint Petersburg,9999
+Ural State Pedagogical University,https://uspu.ru,Yekaterinburg ..., Not reported
+Syktyvkar State University,https://www.syktsu.ru,Syktyvkar ...,4999
+Penza State University,https://www.pnzgu.ru,Penza,9999
+Perm State Technical University,https://pstu.ru,Perm ...,14999
+Chelyabinsk State University,https://www.csu.ru,Chelyabinsk,8999
+Russian State University of Physical Culture  Sport and Tourism,https://www.sportedu.ru,Moscow,3999
+Kazan National Research Technical University named after A.N. Tupolev - KAI,https://kai.ru,Kazan,14999
+Bashkir State University,https://bashedu.ru,Ufa,9999
+Petrozavodsk State University,https://petrsu.ru,Petrozavodsk ...,19999
+Pacific National University,https://pnu.edu.ru,Khabarovsk,24999
+Immanuel Kant Baltic Federal University,https://kantiana.ru,Kaliningrad,14999
+Tomsk State University of Control Systems and Radioelectronics,https://tusur.ru,Tomsk,9999
+N.R.U. Moscow Power Engineering Institute,https://mpei.ru,Moscow ...,14999
+Tambov State Technical University,https://www.tstu.ru,Tambov,7999
+The Bonch-Bruevich St. Petersburg State University of Telecommunications,http://www.sut.ru,Saint Petersburg ...,5999
+Kabardino-Balkarian State University,https://kbsu.ru,Nalchik,8999
+Vladivostok State University of Economics and Service,https://www.vvsu.ru,Vladivostok ...,14999
+Novosibirsk State Pedagogical University,https://nspu.ru,Novosibirsk,7999
+Saint-Petersburg Mining University,https://spmi.ru,Saint Petersburg,7999
+Ufa State Aviation Technical University,https://www.ugatu.su,Ufa,14999
+Russian State Agricultural University,https://www.timacad.ru,Moscow,5999
+Tomsk State Pedagogical University,https://www.tspu.edu.ru,Tomsk,7999
+Ural State University of Economics,https://www.usue.ru,Yekaterinburg,4999
+North-Western State Medical University,https://szgmu.ru,Saint Petersburg,5999
+Russian University of Transport,https://www.miit.ru,Moscow,39999
+Kutafin Moscow State Law University,https://msal.ru,Moscow,19999
+North Caucasus Federal University,https://www.ncfu.ru,Stavropol,7999
+Don State Technical University,https://donstu.ru,Rostov-on-Don ...,14999
+Moscow State University of Psychology and Education,https://mgppu.ru,Moscow,3999
+Samara State Technical University,https://samgtu.ru,Samara,14999
+Moscow Financial and Law University,https://www.mfua.ru,Moscow ...,39999
+Russian New University,https://rosnou.ru,Moscow,3999
+Volgograd State Medical Academy,https://www.volgmed.ru,Volgograd,4999
+Astrakhan State University,https://asu.edu.ru,Astrakhan,14999
+Kemerovo State University,https://kemsu.ru,Kemerovo ...,24999
+Moscow State University of Civil Engineering,https://mgsu.ru,Moscow,14999
+Moscow State Linguistic University,https://linguanet.ru,Moscow,6999
+Togliatti State University,https://www.tltsu.ru,Togliatti ...,19999
+Pavlov First Saint Petersburg State Medical University,https://www.1spbgmu.ru,Saint Petersburg,3999
+Novgorod State University,https://www.novsu.ru,Veliky Novgorod,8999
+Omsk State Pedagogical University,http://omgpu.ru,Omsk ...,9999
+Mendeleev University of Chemical Technology of Russia,https://www.muctr.ru,Moscow,5999
+European University at St. Petersburg,https://eusp.org,Saint Petersburg,250
+Udmurt State University,https://udsu.ru,Izhevsk ...,8999
+Belgorod State Agricultural University,http://www.bsaa.edu.ru,Belgorod,5999
+Gaidar Institute for Economic Policy,https://www.iep.ru,Moscow,250
+Tula State University,https://tsu.tula.ru,Tula,24999
+Yaroslavl State University,http://www.uniyar.ac.ru,Yaroslavl,5999
+Volgograd State Socio-Pedagogical University,https://vspu.ru,Volgograd,7999
+Volgograd State Technical University,https://www.vstu.ru,Volgograd,3999
+M. Akmullah Bashkir State Pedagogical University,http://bspu.ru,Ufa,14999
+Volgograd State University,https://volsu.ru,Volgograd ...,6999
+Moscow State Regional University,http://mgou.ru,Moscow,7999
+Pushkin State Russian Language Institute,http://www.pushkin.institute,Moscow,999
+Voronezh State Technical University,https://cchgeu.ru,Voronezh ...,7999
+Novosibirsk State University of Economics and Management,https://nsuem.ru,Novosibirsk,7999
+Bashkir State Medical University,https://bashgmu.ru,Ufa, Not reported
+Chelyabinsk State Pedagogical University,https://www.cspu.ru,Chelyabinsk,5999
+Dostoevsky Omsk State University,https://omsu.ru,Omsk,7999
+Saint Tikhon's Orthodox University,https://pstgu.ru,Moscow,3999
+Siberian State Medical University,https://ssmu.ru,Tomsk,3999
+Russian State Hydrometeorological University,http://www.rshu.ru,Saint Petersburg,5999
+Vladimir State University for the Humanities,http://www.vlsu.ru,Vladimir,4999
+Yaroslavl State Pedagogical University,http://yspu.org,Yaroslavl,5999
+Altai State Pedagogical Academy,https://www.altspu.ru,Barnaul,4999
+Ulyanovsk State Technical University,https://ulstu.ru,Ulyanovsk,7999
+The State University of Management,https://guu.ru,Moscow,14999
+Ufa State Petroleum Technological University,https://rusoil.net,Ufa ...,24999
+Ulyanovsk State University,https://www.ulsu.ru,Ulyanovsk,14999
+Vyatka State University,https://www.vyatsu.ru,Kirov,6999
+National Research University of Electronic Technology,https://miet.ru,Moscow,6999
+Irkutsk National Research Technical University,http://www.istu.edu,Irkutsk ...,5999
+New Economic School,https://www.nes.ru,Moscow,499
+Kazan State Medical University,https://kazangmu.ru,Kazan ...,4999
+Saratov State Medical University,http://www.sgmu.ru,Saratov,4999
+Ivanovo State Power University,http://ispu.ru,Ivanovo,4999
+Kalashnikov Izhevsk State Technical University,https://istu.ru,Izhevsk ...,14999
+Chita State Academy of Medicine,https://chitgma.ru,Chita,2999
+Polzunov Altai State Technical University,https://www.altstu.ru,Barnaul ...,19999
+Siberian State Aerospace University,https://www.sibsau.ru,Krasnoyarsk ...,14999
+Saratov State Technical University,https://www.sstu.ru,Saratov,8999
+St. Petersburg State Marine Technical University,https://www.smtu.ru,Saint Petersburg,5999
+St. Petersburg State University of Architecture and Civil Engineering,https://www.spbgasu.ru,Saint Petersburg,8999
+Chuvash State University,https://www.chuvsu.ru,Cheboksary,14999
+Magnitogorsk State Technical University,https://www.magtu.ru,Magnitogorsk,8999
+Kazan State Technological University,http://www.kstu.ru,Kazan,29999
+Ural State Law Academy,http://www.usla.ru,Yekaterinburg, Not reported
+Orel State University,http://oreluniver.ru,Orel,14999
+St. Petersburg State University of Industrial Technologies and Design,https://sutd.ru,Saint Petersburg,5999
+Amur State University,https://www.amursu.ru,Blagoveshchensk,5999
+Banzarov Buryat State University,https://www.bsu.ru,Ulan-Ude,14999
+St. Petersburg State University of Aerospace Instrumentation,https://guap.ru,Saint Petersburg,7999
+Mari State University,https://marsu.ru,Yoshkar-Ola,5999
+Ural State University of Railway Transport,http://www.usurt.ru,Yekaterinburg,19999
+Baltic State Technical University "Voenmeh",https://www.voenmeh.ru,Saint Petersburg,6999
+Tambov State University,http://www.tsutmb.ru,Tambov,14999
+Belgorod State Technological University,https://www.bstu.ru,Belgorod,6999
+Moscow University for the Humanities,https://www.mosgu.ru,Moscow,4999
+Sergei Witte University of Moscow,https://www.muiv.ru,Moscow ...,24999
+Kuban State University of Technology,https://kubstu.ru,Krasnodar,14999
+Voronezh State Pedagogical University,http://www.vspu.ac.ru,Voronezh,8999
+Ivanovo State University of Chemistry and Technology,https://www.isuct.ru,Ivanovo,3999
+Admiral Makarov State University of Maritime and Inland Shipping,https://gumrf.ru,Saint Petersburg ...,4999
+Kuban State Agricultural University,https://kubsau.ru,Krasnodar,19999
+Ivanovo State Medical Academy,https://www.isma.ivanovo.ru,Ivanovo, Not reported
+St. Petersburg State Conservatory,https://www.conservatory.ru,Saint Petersburg,1999
+Nizhny Novgorod State Pedagogical University,https://mininuniver.ru,Nizhny Novgorod,1999
+Russian State University A.N. Kosygin,https://kosygin-rgu.ru,Moscow ...,3999
+Petrozavodsk State Conservatory,http://glazunovcons.ru,Petrozavodsk,499
+Moscow Technical University of Communications and Informatics,https://mtuci.ru,Moscow,4999
+Kaliningrad State Technical University,https://klgtu.ru,Kaliningrad,4999
+Murmansk State Technical University,http://www.mstu.edu.ru,Murmansk,5999
+South-Western State University,https://swsu.ru,Kursk,14999
+Moscow State University of Geodesy and Cartography,http://www.miigaik.ru,Moscow,3999
+Moscow Automobile and Road Construction State Technical University,http://www.madi.ru,Moscow,6999
+Ryazan State Medical University,http://www.rzgmu.ru,Ryazan,1999
+Ivanovo State University,http://ivanovo.ac.ru,Ivanovo,4999
+Tula State Pedagogical University,https://tsput.ru,Tula,4999
+Dubna State University,https://uni-dubna.ru,Dubna,5999
+Pskov State Pedagogical University,https://pskgu.ru,Pskov,2999
+Omsk State Technical University,https://www.omgtu.ru,Omsk,19999
+Nizhny Novgorod State University of Architecture and Civil Engineering,https://www.nngasu.ru,Nizhny Novgorod,6999
+Maritime State University,https://msun.ru,Vladivostok,4999
+Ryazan State University,https://www.rsu.edu.ru,Ryazan,14999
+Kursk State Medical University,https://kurskmed.com,Kursk,1999
+Voronezh State Medical University,http://vrngmu.ru,Voronezh,6999
+Saint-Petersburg State Institute of Film and Television,https://www.gukit.ru,Saint Petersburg,3999
+Kazan State Power Engineering University,https://kgeu.ru,Kazan,9999
+Linguistic University of Nizhny Novgorod,https://lunn.ru,Nizhny Novgorod,2999
+Siberian State University of Telecommunications and Informatics,https://sibsutis.ru,Novosibirsk,4999
+Moscow State University of Food Production,https://mgupp.ru,Moscow,4999
+Dagestan State University,http://www.dgu.ru,Makhachkala,9999
+Komsomolsk-on-Amur State Technical University,https://knastu.ru,Komsomolsk-on-Amur,4999
+Leningrad State University,https://lengu.ru,Saint Petersburg,3999
+Kursk State University,https://www.kursksu.ru,Kursk,14999
+Gorno-Altaisk State University,http://www.gasu.ru,Gorno-Altaisk,3999
+Kuzbass State Technical University,https://kuzstu.ru,Kemerovo,9999
+Irkutsk State Medical University,https://www.ismu.baikal.ru,Irkutsk,3999
+Moscow State Technical University of Civil Aviation,http://www.mstuca.ru,Moscow,2999
+Kaluga State University,https://tksu.ru,Kaluga,4999
+Modern University for the Humanities,https://muh.ru,Moscow ...,45000
+Samara State Medical University,https://samsmu.ru,Samara,4999
+Perm State Pedagogical University,https://pspu.ru,Perm,3999
+Krasnoyarsk State Medical University,https://krasgmu.ru,Krasnoyarsk,3999
+Surgut State University,http://www.surgu.ru,Surgut,4999
+Tver State Technical University,http://www.tstu.tver.ru,Tver,7999
+St. Petersburg State University for Culture and Arts,https://www.spbgik.ru,Saint Petersburg,7999
+Kuban State Medical University,http://www.ksma.ru,Krasnodar,3999
+Saint Petersburg State Pediatric Medical Academy,https://gpmu.org,Saint Petersburg,3999
+Krasnoyarsk State Pedagogical University,http://www.kspu.ru,Krasnoyarsk,6999
+Perm State Academy of Medicine,http://www.psma.ru,Perm,3999
+St. Petersburg State Agrarian University,https://spbgau.ru,Saint Petersburg,5999
+Volga State University of Technology,https://www.volgatech.net,Yoshkar-Ola,7999
+Nizhny Novgorod State Technical University,https://www.nntu.ru,Nizhny Novgorod,19999
+Khakas State University,http://www.khsu.ru,Abakan,6999
+Samara State Academy of Social Sciences and Humanities,https://www.pgsga.ru,Samara,14999
+Kurgan State University,http://kgsu.ru,Kurgan,6999
+Chelyabinsk State Medical Academy,http://www.chelsma.ru,Chelyabinsk, Not reported
+Pyatigorsk State University,https://pgu.ru,Pyatigorsk,5999
+Saint Petersburg State Institute of Technology,http://technolog.edu.ru,Saint Petersburg,6999
+St. Petersburg University of Management Technologies and Economics,https://www.spbume.ru,Saint Petersburg,29999
+Kostroma State University,https://ksu.edu.ru,Kostroma ...,7999
+Moscow International Higher Business School,https://mirbis.ru,Moscow,9999
+Siberian State Transport University,http://www.stu.ru,Novosibirsk,14999
+Moscow State Technological University "Stankin",https://stankin.ru,Moscow,5999
+Rostov State Medical University,http://rostgmu.ru,Rostov-on-Don ...,5999
+St. Petersburg State University of Physical Education,http://www.lesgaft.spb.ru,Saint Petersburg, Not reported
+North State Medical University,http://www.nsmu.ru,Arkhangelsk,3999
+Stavropol State Medical University,https://stgmu.ru,Stavropol,4999
+Novosibirsk State Medical University,http://ngmu.ru,Novosibirsk,3999
+Astrakhan State Technical University,https://www.astu.org,Astrakhan,7999
+Izhevsk State Medical Academy,https://www.igma.ru,Izhevsk,3999
+Ugra State University,https://www.ugrasu.ru,Khanty-Mansiysk,3999
+Saratov State Agrarian University,https://www.sgau.ru,Saratov,14999
+Saratov State Academy of Law,http://xn--80af5bzc.xn--p1ai,Saratov, Not reported
+Novosibirsk State Architectural University,http://www.sibstrin.ru,Novosibirsk,4999
+Moscow International University,https://mi.university,Moscow,1999
+Omsk State Agrarian University n.a. P. A. Stolypin,https://www.omgau.ru,Omsk,6999
+Stavropol State Agrarian University,http://www.stgau.ru,Stavropol,6999
+Ural State Forestry University,http://usfeu.ru,Yekaterinburg,5999
+Ulyanovsk State Pedagogical University,https://www.ulspu.ru,Ulyanovsk,4999
+Omsk State Medical Academy,https://omsk-osma.ru,Omsk, Not reported
+Altai State Medical University,https://asmu.ru,Barnaul,3999
+Krasnoyarsk State Agricultural University,http://www.kgau.ru,Krasnoyarsk,19999
+South-Russian State Technical University,https://www.npi-tu.ru,Novocherkassk ...,24999
+Moscow State University of Technology and Management,https://www.mgutm.ru,Moscow,1999
+North Ossetian State University,https://www.nosu.ru,Vladikavkaz,9999
+Samara State Economic University,http://www.sseu.ru,Samara,4999
+Lipetsk State Technical University,http://www.stu.lipetsk.ru,Lipetsk,5999
+Russian State Geological Prospecting University,https://mgri.ru,Moscow,2999
+Orenburg State Medical University,http://www.orgma.ru,Orenburg,3999
+Chuvash State Pedagogical University,http://www.chgpu.edu.ru,Cheboksary,5999
+Maikop State Technological University,http://www.mkgtu.ru,Maykop ...,6999
+Yaroslavl State Technical University,https://www.ystu.ru,Yaroslavl,4999
+Omsk State Transport University,https://www.omgups.ru,Omsk,4999
+Altai State University of Agriculture,http://www.asau.ru,Barnaul,5999
+Transbaikal State University,http://www.zabgu.ru,Chita,14999
+Far Eastern State Medical University,http://www.fesmu.ru,Khabarovsk, Not reported
+Yelets State University,https://www.elsu.ru,Yelets,5999
+Voronezh State Agricultural University,http://www.vsau.ru,Voronezh,6999
+Novosibirsk State Agricultural University,https://nsau.edu.ru,Novosibirsk,5999
+Saint-Petersburg State Chemical Pharmaceutical University,https://spcpu.ru,Saint Petersburg,1999
+Penza State University of Architecture and Construction,http://www.pguas.ru,Penza,4999
+Ural State Mining University,http://www.ursmu.ru,Yekaterinburg,6999
+Vologda State University,https://vogu35.ru,Vologda,7999
+Moscow State Institute of Culture,http://www.mgik.org,Khimki, Not reported
+Baikal State University,http://bgu.ru,Irkutsk ...,19999
+Tver State Medical University,https://tvgmu.ru,Tver, Not reported
+Sakhalin State University,http://sakhgu.ru,Yuzhno-Sakhalinsk,4999
+Volga State University of Telecommunications and Informatics,https://www.psuti.ru,Samara,2999
+Murmansk Arctic State University,https://www.masu.edu.ru,Murmansk,2999
+Far Eastern State Transport University,https://dvgups.ru,Khabarovsk,14999
+Bashkir State Agricultural University,https://www.bsau.ru,Ufa,6999
+Rostov State University of Economics,https://rsue.ru,Rostov-on-Don ...,24999
+East Siberia State University of Technology and Management,https://esstu.ru,Ulan-Ude,9999
+Smolensk State University,http://www.smolgu.ru,Smolensk,4999
+Kemerovo State University of Culture and the Arts,https://kemguki.ru,Kemerovo,1999
+Moscow State University of Printing Arts,http://mgup.ru,Moscow,3999
+St. Petersburg State University of Civil Aviation,https://spbguga.ru,Saint Petersburg,3999
+Samara State University,http://samsu.ru,Samara ...,6999
+Dagestan State Technical University,http://dstu.ru,Makhachkala,5999
+Orel State Agrarian University,https://www.orelsau.ru,Orel,4999
+Kazan State University of Architecture and Engineering,https://www.kgasu.ru,Kazan,4999
+Moscow Metropolitan Governance University,https://mguu.ru,Moscow,999
+Nizhnevartovsk State University,http://nvsu.ru,Nizhnevartovsk,2999
+Blagoveshchensk State Pedagogical University,https://bgpu.ru,Blagoveshchensk,3999
+Bratsk State University,https://www.brstu.ru,Bratsk,5999
+Ural State University of Physical Culture,https://uralgufk.ru,Chelyabinsk,2999
+Khabarovsk State University of Economics and Law,http://www.ael.ru,Khabarovsk ...,14999
+Astrakhan State Medical Academy,http://astgmu.ru,Astrakhan,3999
+Bryansk State University,https://brgu.ru,Brjansk,8999
+Adyghe State University,https://www.adygnet.ru,Maykop,14999
+Siberian State Industrial University,https://www.sibsiu.ru,Novokuznetsk ...,14999
+Ryazan State Radio Engineering University,http://www.rsreu.ru,Ryazan,5999
+Kirov State Medical University,https://www.kirovgma.ru,Kirov, Not reported
+Volga Region State Academy of Physical Culture  Sport and Tourism,https://www.sportacadem.ru,Kazan, Not reported
+Pacific State Medical University,https://tgmu.ru,Vladivostok,7999
+Ukhta State Technical University,https://www.ugtu.net,Ukhta ...,14999
+Yaroslavl State Medical University,http://ysmu.ru,Yaroslavl, Not reported
+Lipetsk State Pedagogical University,https://lspu-lipetsk.ru,Lipetsk,5999
+Orenburg State Agrarian University,https://orensau.ru,Orenburg,5999
+International Banking Institute,https://www.ibispb.ru,Saint Petersburg, Not reported
+Russian State University of Tourism and Services,https://rguts.ru,Moscow,8999
+Dagestan State Medical University,https://dgmu.ru,Makhachkala, Not reported
+Bryansk State Technical University,https://www.tu-bryansk.ru,Brjansk,4999
+Amur State University of Humanities and Pedagogy,https://www.amgpgu.ru,Komsomolsk-on-Amur,2999
+Voronezh State University of Engineering Technology,https://vsuet.ru,Voronezh, Not reported
+Cherepovets State University,https://www.chsu.ru,Cherepovets,6999
+State University of Land Management,http://www.guz.ru,Moscow,3999
+Ivanovo State Polytechnic University,https://ivgpu.com,Ivanovo,2999
+Kamchatka State University,http://www.kamgu.ru,Petropavlovsk-Kamchatsky,1999
+Russian State Institute of Performing Arts,http://www.rgisi.ru,Saint Petersburg,999
+Kemerovo State Medical University,https://kemsmu.ru,Kemerovo, Not reported
+Privolzhsky Research Medical University,https://pimunn.ru,Nizhny Novgorod,4999
+Moscow State Academy of Physical Culture,https://mgafk.ru,Lyubertsy,1999
+Volgograd State University of Architecture and Civil Engineering,https://vgasu.ru,Volgograd,9999
+Chechen State University,https://www.chesu.ru,Grozny, Not reported
+Armavir State Pedagogical University,http://www.agpu.net,Armavir,6999
+Tomsk State University of Architecture and Building,https://tsuab.ru,Tomsk ...,6999
+Tyva State University,http://tuvsu.ru,Kyzyl,3999
+Vologda State Dairy Farming Academy,https://molochnoe.ru,Vologda, Not reported
+Kazan State Agricultural University,https://kazgau.ru,Kazan,3999
+Far Eastern State Technical Fisheries University,https://dalrybvtuz.ru,Vladivostok,8999
+Moscow State Industrial Art University,https://xn----7sbabalfgj4as1arld1aqs8v.xn--p1ai,Moscow,1999
+Penza State Technological University,http://www.penzgtu.ru,Penza, Not reported
+Kuban State University of Physical Culture  Sport and Tourism,https://kgufkst.ru,Krasnodar,2999
+Kazan State Conservatory,https://kazancons.ru,Kazan, Not reported
+Orenburg State Pedagogical University,https://ospu.ru,Orenburg,4999
+Kazan State University of Culture and Arts,https://kazgik.ru,Kazan,2999
+Kalmyk State University,http://www.kalmsu.ru,Elista,4999
+University of Humanities,https://gu-ural.ru,Yekaterinburg,4999
+Northern Ossetian State Academy of Medicine,http://sogma.ru,Vladikavkaz ...,2999
+Moscow Institute of Public Administration and Law,http://academprava.ru,Moscow,3999
+Buryat State Academy of Agriculture,http://www.bgsha.ru,Ulan-Ude,250
+Amur State Medical Academy,http://www.amursma.ru,Blagoveshchensk,1999
+Ingush State University,http://www.inggu.ru,Ordzhonikidzevskaya, Not reported
+Dagestan State Pedagogical University,http://dgpu.net,Makhachkala,14999
+Tyumen State Agricultural Academy,http://www.tsaa.ru,Tyumen,9999
+Altai State Academy of Education,http://www.bigpi.biysk.ru,Biisk,3999
+Ryazan State Agrotechnological University,http://www.rgatu.ru,Ryazan,6999
+Bryansk State Agrarian University,https://www.bgsha.com,Brjansk,3999
+Michurinsk State Agrarian University,http://www.mgau.ru,Michurinsk,3999
+Don State University of Agriculture,http://www.dongau.ru,Persianovsky,3999
+Rybinsk State Aviation Technical University,https://www.rsatu.ru,Rybinsk, Not reported
+North Caucasian Institute of Mining and Metallurgy,http://www.skgmi-gtu.ru,Vladikavkaz,4999
+Pyatigorsk State Pharmaceutical Academy,http://www.pmedpharm.ru,Pyatigorsk,2999
+Moscow University of Information and Technology - Moscow Institute of Architecture and Civil Engineering,https://mitu-masi.ru,Moscow,1999
+Yaroslavl State Academy of Agriculture,https://www.yaragrovuz.ru,Yaroslavl, Not reported
+Moscow State University of Environmental Engineering,https://msuee.ru,Moscow,3999
+Nayanova University,http://www.nayanova.edu,Samara,499
+Siberian State University of Physical Culture and Sports,https://sibsport.ru,Omsk,2999
+Kabardino-Balkarian State Agricultural University,https://www.kbgau.ru,Nalchik, Not reported
+North-Eastern State University,https://www.svgu.ru,Magadan,2999
+The Rostov State Conservatoire,https://rostcons.ru,Rostov-on-Don,999
+Vyatka State Humanities University,https://vggu.ru,Kirov ...,14999
+Izhevsk State Agricultural Academy,https://izhgsha.ru,Izhevsk, Not reported
+Kamchatka State Technical University,https://kamchatgtu.ru,Petropavlovsk-Kamchatsky,3999
+Magnitogorsk State Conservatory,http://www.magkmusic.com,Magnitogorsk, Not reported
+Chuvash State Agricultural Academy,http://www.academy21.ru,Cheboksary, Not reported
+Nizhny Novgorod State Agricultural Academy,https://nnsaa.ru,Nizhny Novgorod,6999
+Tambov State Musical-Pedagogical Institute named after S.V. Rachmaninov,https://rachmaninov.ru,Tambov,999
+Far East State Agrarian University,https://www.dalgau.ru,Blagoveshchensk,4999
+Ivanovo State Academy of Agriculture,http://www.ivgsha.ru,Ivanovo, Not reported
+Ural State Conservatory,https://www.uralconsv.org,Yekaterinburg, Not reported
+Arctic State Agrotechnological University,https://agatu.ru,Yakutsk, Not reported
+Penza State Agricultural Academy,https://pgau.ru,Penza, Not reported
+Angarsk State Technical University,http://angtu.ru,Angarsk,2999
+Tchaikovsky State Institute of Physical Culture,http://www.chifk.ru,Chaykovsky, Not reported
+Moscow University Touro,https://touro.ru,Moscow, Not reported
+Dagestan State Agrarian University,https://xn--80aaiac8g.xn--p1ai,Makhachkala, Not reported
+Gorsky State Agrarian University,https://gorskigau.ru,Vladikavkaz,3999
+Institute of International Business Education,http://www.imbo.ru,Moscow ...,250
+Chelyabinsk State Agroengineering Academy,http://csaa.ru,Chelyabinsk,5999
+Nevsky Institute of Language and Culture,http://niyak.spb.ru,Saint Petersburg,999
+Pushchino State Institute of Natural Science,http://pushgu.ru,Pushchino,250
+International University of Fundamental Studies  St. Petersburg,https://www.iufs.edu,Moscow ...,499
+Vladikavkaz Institute of Economics  Management and Law,http://www.viu-online.ru,Vladikavkaz,999
+Astrakhan State Conservatory,https://astracons.ru,Astrakhan,250
+Samara Academy of Humanities,https://www.samgum.ru,Samara ...,499
